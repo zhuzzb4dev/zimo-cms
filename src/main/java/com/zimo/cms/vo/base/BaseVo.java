@@ -1,4 +1,4 @@
-package com.zimo.cms.vo;
+package com.zimo.cms.vo.base;
 
 import lombok.Getter;
 import lombok.Setter;
