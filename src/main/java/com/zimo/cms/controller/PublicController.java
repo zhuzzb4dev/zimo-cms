@@ -2,7 +2,6 @@ package com.zimo.cms.controller;
 
 import com.zimo.cms.req.LoginReq;
 import com.zimo.cms.vo.LoginVo;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.PostMapping;
